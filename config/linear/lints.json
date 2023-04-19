@@ -1,0 +1,14 @@
+{
+    "task_type": "lineary",
+    "N": 1,
+    "std_prior": 5,
+    "eta": 500,
+    "nb_arms": 5,
+    "d": 20,
+    "context_size": 4,
+    "exp_name": "results/toy/lints/",
+    "T": 1000,
+    "agent": "LinTS",
+    "std_reward": 1,
+    "project_name": "Linear"
+}
